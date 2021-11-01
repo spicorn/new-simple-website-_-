@@ -14,10 +14,10 @@ body {
     width: 450px;
     background: #2f3035c7;
     cursor: pointer;
-    padding: 80px;
+    padding: 40px;
     text-align: center;
-    margin: auto;
-    margin-top: 10%;
+    margin-top: auto;
+    margin-bottom: auto;
     color: white;
     font-family: 'Century Gothic', sans-serif;
 }
